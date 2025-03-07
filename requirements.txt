@@ -1,0 +1,6 @@
+streamlit
+pytube
+moviepy
+numpy
+google-auth-oauthlib
+google-api-python-client
